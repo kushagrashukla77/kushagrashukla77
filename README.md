@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushagrashukla77
 - 👀 I’m interested in Coding and Data Science
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Machine learning
 
 <!---
 kushagrashukla77/kushagrashukla77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
